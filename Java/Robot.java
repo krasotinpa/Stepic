@@ -18,6 +18,7 @@ public class Robot {
         // текущая координата X
         return(x);
     }
+    
 
     public int getY() {
         // текущая координата Y
